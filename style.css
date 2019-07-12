@@ -46,8 +46,7 @@ span {
 }
 .image2
 {
-  height: 50%;
-  position: fixed;
+width:400px;
 }
 
 a {
@@ -56,4 +55,9 @@ a {
   font-size: 13px;
   text-decoration:none;
   font-family: merriweather;
+}
+
+.responsive {
+  width: 80%;
+  height: auto;
 }
