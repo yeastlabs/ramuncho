@@ -30,5 +30,3 @@ $(window).on("scroll", function() {
     opacity: yPer
   });
 });
-
-window.onscroll = function() {scrollFunction()};
