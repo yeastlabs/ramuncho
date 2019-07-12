@@ -1,4 +1,3 @@
-// Static variables - That do not change while scrolling
 var header = $("header"),
     headerHeight = header.height(), // Get height of header
  	 	logo = $(".logo"), // Get the logo
