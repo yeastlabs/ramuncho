@@ -1,0 +1,65 @@
+body {
+  width: 100%;
+  height: 500px;
+  margin: 0;
+  background: #212121;
+  color: #fff;
+  padding-top:60%
+}
+
+div {
+  border: 3px solid white;
+  font-size: 30px;
+  margin: auto;
+  padding-left: 80px;
+  padding-right: 80px;
+  background-color: #212121;
+  color: white;
+  height: 80px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate3d(-50%, -50%, 0);
+}
+
+p {
+  font-family: lato;
+  font-style: light;
+  font-size: 13px;
+}
+
+#par1{
+  color: #FE6417
+}
+
+h2 {
+  font-family: comfortaa;
+  font-style: light;
+  font-size: 30px;
+}
+
+header {
+  text-align: right;
+  font-family: lato;
+  font-style: light;
+  font-size: 10px;
+  width: 100%;
+  height: 60px;
+  background: #212121;
+  position: fixed;
+  top: -60px;
+  opacity: 0;
+}
+
+span {
+  position: fixed;
+  top: 100px;
+}
+
+img {
+  height: 130px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate3d(-50%, -50%, 0);
+}
