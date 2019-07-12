@@ -1,8 +1,10 @@
 body {
+  height: 4000px;
+  background: linear-gradient(0deg, #A2A1A3 00%, #787879 60%, #4A4A4B 80%, #212121 90%);
   width: 100%;
-  height: 500px;
-  margin: 0;
-  background: #212121;
+  height: 3000px;
+  margin-left: 3%;
+  margin-right: 3%;
   color: #fff;
   padding-top:60%
 }
@@ -10,9 +12,8 @@ body {
 div {
   border: 3px solid white;
   font-size: 30px;
-  margin: auto;
-  padding-left: 80px;
-  padding-right: 80px;
+  padding-left: 50px;
+  padding-right: 50px;
   background-color: #212121;
   color: white;
   height: 80px;
@@ -23,25 +24,18 @@ div {
 }
 
 p {
-  font-family: lato;
-  font-style: light;
+  font-family: montserrat thin;
+  font-style: thin;
   font-size: 13px;
 }
 
-#par1{
-  color: #FE6417
-}
-
 h2 {
-  font-family: comfortaa;
+  font-family: merriweather;
   font-style: light;
-  font-size: 30px;
+  font-size: 15px;
 }
 
 header {
-  text-align: right;
-  font-family: lato;
-  font-style: light;
   font-size: 10px;
   width: 100%;
   height: 60px;
