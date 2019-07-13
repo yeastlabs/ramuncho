@@ -2,8 +2,6 @@ body {
   background: linear-gradient(0deg, #565656 00%, #414141 30%, #333333 60%, #212121 90%);
   width:80%;
   height: 1600;
-  margin-left: 3%;
-  margin-right: 3%;
   color: #fff;
 }
 
@@ -11,12 +9,16 @@ p {
   font-family: montserrat;
   font-style: light;
   font-size: 13px;
+  margin-left: 3%;
+  margin-right: 3%;
 }
 
 h2 {
   font-family: montserrat;
   font-weight: bold;
   font-size: 15px;
+  margin-left: 3%;
+  margin-right: 3%;
 }
 
 header {
