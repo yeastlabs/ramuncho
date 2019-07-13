@@ -15,7 +15,7 @@ p {
 
 h2 {
   font-family: montserrat;
-  font-style: bold;
+  font-weight: bold;
   font-size: 15px;
 }
 
@@ -49,7 +49,7 @@ width:400px;
 }
 
 a {
-  font-weight: light;
+  font-weight: bold;
   color: tomato;
   font-size: 13px;
   text-decoration:none;
