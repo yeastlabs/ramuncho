@@ -23,11 +23,9 @@ h2 {
 header {
   font-size: 10px;
   width: 100%;
-  height: 60px;
-  background: #212121;
+  height: 80px;
   position: fixed;
-  top: -60px;
-  opacity: 0;
+  top: -80px;
 }
 
 span {
