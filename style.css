@@ -9,16 +9,12 @@ p {
   font-family: montserrat;
   font-weight: light;
   font-size: 13px;
-  margin-left: 3%;
-  margin-right: 3%;
 }
 
 h2 {
   font-family: montserrat;
   font-weight: bold;
   font-size: 15px;
-  margin-left: 3%;
-  margin-right: 3%;
 }
 
 header {
@@ -53,14 +49,14 @@ width:400px;
 
 a {
   font-weight: light;
-  color: tomato;
+  color: white;
   font-size: 13px;
   text-decoration:none;
   font-family: merriweather;
 }
 
 .responsive {
-  width: 80%;
+  width: 70%;
   height: auto;
 }
 
