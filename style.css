@@ -60,3 +60,7 @@ a {
   width: 80%;
   height: auto;
 }
+
+.title {
+  height: 100vh;
+}
