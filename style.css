@@ -1,7 +1,7 @@
 body {
   background: linear-gradient(0deg, #565656 00%, #414141 30%, #333333 60%, #212121 90%);
   width:80%;
-  height: 1400px;
+  height: 100%;
   margin-left: 3%;
   margin-right: 3%;
   color: #fff;
@@ -25,8 +25,8 @@ header {
   height: 80px;
   position: fixed;
   top: -80px;
-  background: linear-gradient(0deg, #565656 00%, #414141 30%, #333333 60%, #212121 90%);
-  width:80%;
+  background: #212121;
+  
 
 }
 
