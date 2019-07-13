@@ -1,13 +1,13 @@
 body {
   background: linear-gradient(0deg, #565656 00%, #414141 30%, #333333 60%, #212121 90%);
-  width:80%;
-  height: 1600;
+  width:90%;
+  height: 1800px;
   color: #fff;
 }
 
 p {
   font-family: montserrat;
-  font-style: light;
+  font-weight: light;
   font-size: 13px;
   margin-left: 3%;
   margin-right: 3%;
@@ -28,6 +28,7 @@ header {
   position: fixed;
   top: -80px;
   background: #212121;
+  margin-left: -1.5%;
   
 
 }
@@ -48,12 +49,10 @@ span {
 .image2
 {
 width:400px;
-margin-left: 3%;
-margin-right: 3%;
 }
 
 a {
-  font-weight: bold;
+  font-weight: light;
   color: tomato;
   font-size: 13px;
   text-decoration:none;
