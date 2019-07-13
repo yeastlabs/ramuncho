@@ -25,6 +25,9 @@ header {
   height: 80px;
   position: fixed;
   top: -80px;
+  background: linear-gradient(0deg, #565656 00%, #414141 30%, #333333 60%, #212121 90%);
+  width:80%;
+
 }
 
 span {
